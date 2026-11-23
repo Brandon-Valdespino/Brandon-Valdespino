@@ -29,7 +29,9 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 
 #### Proyectos y Laboratorios Académicos (UTP):
 - 🔹 **[Configuración de Perfil Profesional y Marca Digital](https://github.com/Brandon-Valdespino/Brandon-Valdespino):**Perfil profesional y portafolio académico en ciberseguridad | Universidad Tecnológica de Panamá (UTP)
-- 🔹 **[NOMBRE DE TU REPO DE LABORATORIO](https://github.com/Brandon-Valdespino/NOMBRE-DEL-REPOSITORIO):** Perfil profesional y portafolio académico en ciberseguridad | Universidad Tecnológica de Panamá (UTP)
+- 
+[Proyecto de seguridad en C](https://github.com/Brandon-Valdespino/Proyecto-de-seguridad-en-C)
+
 ---
 
 ### 3. CV en LinkedIn y Canales Digitales
