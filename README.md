@@ -39,7 +39,8 @@ Mantengo una identidad profesional coherente e interconectada en las plataformas
 
 * **Perfil Profesional en LinkedIn:** [Brandon Valdespino en LinkedIn](https://www.linkedin.com/in/brandon-valdespino-380090436?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **Correo Institucional UTP:** brandon.valdespino@utp.ac.pa
-* **Curriculum Vitae Digital:** [Ver CV en el repositorio](./CV.md) *(o sube tu archivo y enlázalo aquí)*
+* **Curriculum Vitae Digital (DOCX):** [Descargar CV Actualizado](./CV_Brandon_Valdespino.docx)
+
 
 #### Resumen del CV — Brandon Manuel Valdespino Herrera
 * **Programa:** Licenciatura en Ciberseguridad *(En curso)* — Universidad Tecnológica de Panamá (UTP)
