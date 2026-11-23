@@ -40,7 +40,40 @@ Mantengo una identidad profesional coherente e interconectada en las plataformas
 
 * **Perfil en LinkedIn:** [](https://www.linkedin.com/in/brandon-valdespino-380090436?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **Correo Institucional UTP:** brandon.valdespino@utp.ac.pa
-* * 📄 **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado]
+* * 📄 **Curriculum Vitae Digital:**
+  * # Brandon Manuel Valdespino Herrera
+Estudiante de Licenciatura en Ciberseguridad — Universidad Tecnológica de Panamá
+
+**Cédula:** 2-759-1998 | **Fecha de nacimiento:** 02/10/2007 | **Ubicación:** Coclé, Panamá | **GitHub:** [Brandon-Valdespino](https://github.com/Brandon-Valdespino)
+
+---
+
+## Sobre mí
+
+Estudiante de Licenciatura en Ciberseguridad en la Universidad Tecnológica de Panamá (UTP). Cuento con base práctica en programación en C y Java, redes de computadoras y uso de Linux. Busco seguir ganando experiencia práctica en proyectos de desarrollo de software y seguridad informática.
+
+## Educación
+
+* **Licenciatura en Ciberseguridad** *(En curso)*  
+  Universidad Tecnológica de Panamá (UTP)
+* **Bachillerato en Ciencias** *(2023 – 2025)*  
+  Escuela Secundaria Ángel María Herrera
+
+## Habilidades
+
+* **Programación:** Lenguaje C (arreglos, listas enlazadas, manejo de archivos) y Java (programación orientada a objetos).
+* **Redes y Seguridad:** Control de acceso y autenticación básica, análisis de tráfico de red (Unicast, Broadcast, Multicast) y simulación en Cisco Packet Tracer.
+* **Sistemas y Herramientas:** Linux (Zorin OS y terminal Bash), NetBeans, Maven, Git y GitHub.
+* **Otras habilidades:** Redacción de informes técnicos (normas APA) y trabajo en equipo.
+
+## Proyectos
+
+* **Sistema de Control de Acceso y Seguridad en C** ([Repositorio en GitHub](https://github.com/Brandon-Valdespino/Proyecto-de-seguridad-en-C))  
+  Programa de consola en C con inicio de sesión por roles (administrador y usuarios), bloqueo tras 3 intentos fallidos, recuperación de acceso y guardado de datos en archivos de texto.
+* **Simulador en Java (Proyecto en equipo)** *(Java / NetBeans)*  
+  Desarrollo de clases y paquetes para un simulador aplicando programación orientada a objetos.
+* **Listas Enlazadas en C** *(Lenguaje C)*  
+  Implementación de operaciones de inserción de datos usando arreglos paralelos.
 
 ---
 
