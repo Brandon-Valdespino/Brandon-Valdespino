@@ -6,7 +6,7 @@
 
 ### 1. Importancia de la Marca Digital (Sobre mí)
 
-Hola, Soy **Brandon Valdespino**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**.
+¡Hola! Soy **Brandon Valdespino**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**.
 
 Entiendo la marca personal no como un currículum estático, sino como la demostración activa de mi aprendizaje continuo, la ética profesional en el manejo de la información y la colaboración en entornos digitales.
 
@@ -25,12 +25,11 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 - **Sistemas Operativos:** Linux, Windows Server
 - **Redes & Seguridad:** Modelo OSI/TCP-IP, Cisco Packet Tracer
 - **Programación:** Java (fundamentos), C (fundamentos), Bash (scripts básicos y Crontab), Markdown
-- **Herramientas Colaborativas:** GitHub y VS code
+- **Herramientas Colaborativas:** GitHub y VS Code
 
 #### Proyectos y Laboratorios Académicos (UTP):
-- 🔹 **[Configuración de Perfil Profesional y Marca Digital](https://github.com/Brandon-Valdespino/Brandon-Valdespino):**Perfil profesional y portafolio académico en ciberseguridad | Universidad Tecnológica de Panamá (UTP)
-- 
-[Proyecto de seguridad en C](https://github.com/Brandon-Valdespino/Proyecto-de-seguridad-en-C)
+- 🔹 **[Configuración de Perfil Profesional y Marca Digital](https://github.com/Brandon-Valdespino/Brandon-Valdespino):** Perfil profesional y portafolio académico en ciberseguridad | Universidad Tecnológica de Panamá (UTP).
+- 🔹 **[Proyecto de Seguridad en C](https://github.com/Brandon-Valdespino/Proyecto-de-seguridad-en-C):** Sistema de control de acceso y seguridad en consola desarrollado en C con gestión de roles, bloqueo por intentos fallidos y persistencia en archivos.
 
 ---
 
@@ -38,41 +37,19 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
-* **Perfil en LinkedIn:** [](https://www.linkedin.com/in/brandon-valdespino-380090436?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **Perfil Profesional en LinkedIn:** [Brandon Valdespino en LinkedIn](https://www.linkedin.com/in/brandon-valdespino-380090436?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **Correo Institucional UTP:** brandon.valdespino@utp.ac.pa
-* * 📄 **Curriculum Vitae Digital:**
-  * # Brandon Manuel Valdespino Herrera
-Estudiante de Licenciatura en Ciberseguridad — Universidad Tecnológica de Panamá
+* **Curriculum Vitae Digital:** [Ver CV en el repositorio](./CV.md) *(o sube tu archivo y enlázalo aquí)*
 
-**Cédula:** 2-759-1998 | **Fecha de nacimiento:** 02/10/2007 | **Ubicación:** Coclé, Panamá | **GitHub:** [Brandon-Valdespino](https://github.com/Brandon-Valdespino)
-
----
-
-## Sobre mí
-
-Estudiante de Licenciatura en Ciberseguridad en la Universidad Tecnológica de Panamá (UTP). Cuento con base práctica en programación en C y Java, redes de computadoras y uso de Linux. Busco seguir ganando experiencia práctica en proyectos de desarrollo de software y seguridad informática.
-
-## Educación
-
-* **Licenciatura en Ciberseguridad** *(En curso)*  
-  Universidad Tecnológica de Panamá (UTP)
-* **Bachillerato en Ciencias** *(2023 – 2025)*  
-  Escuela Secundaria Ángel María Herrera
-
-## Habilidades
-
-* **Programación:** Lenguaje C (arreglos, listas enlazadas, manejo de archivos) y Java (programación orientada a objetos).
-* **Redes y Seguridad:** Control de acceso y autenticación básica, análisis de tráfico de red (Unicast, Broadcast, Multicast) y simulación en Cisco Packet Tracer.
-* **Sistemas y Herramientas:** Linux (Zorin OS y terminal Bash), NetBeans, Maven, Git y GitHub.
-* **Otras habilidades:** Redacción de informes técnicos (normas APA) y trabajo en equipo.
-
-## Proyectos
-
-* **Sistema de Control de Acceso y Seguridad en C** ([Repositorio en GitHub](https://github.com/Brandon-Valdespino/Proyecto-de-seguridad-en-C))  
-  Programa de consola en C con inicio de sesión por roles (administrador y usuarios), bloqueo tras 3 intentos fallidos, recuperación de acceso y guardado de datos en archivos de texto.
+#### Resumen del CV — Brandon Manuel Valdespino Herrera
+* **Programa:** Licenciatura en Ciberseguridad *(En curso)* — Universidad Tecnológica de Panamá (UTP)
+* **Bachillerato:** Bachillerato en Ciencias *(2023 – 2025)* — Escuela Secundaria Ángel María Herrera
+* **Ubicación:** Coclé, Panamá | **GitHub:** [Brandon-Valdespino](https://github.com/Brandon-Valdespino)
+* **Habilidades clave:** Programación en C y Java, fundamentos de redes y seguridad, Linux (Zorin OS / Bash), NetBeans, Maven, Git/GitHub, redacción técnica (APA) y trabajo en equipo.
 
 ---
 
 <p align="center">
  <i>"La seguridad en la red empieza con una identidad digital transparente, responsable y colaborativa."</i>
 </p>
+
